@@ -10,6 +10,7 @@ Hi there, I'm Julia and I'm data Analyst👋
 📫 How to reach me: 
 
 ulbonchik28@gmail.com
+
 https://t.me/ulbonchik
 
 💻 Stack: SQL, Python, PowerBi, Tableau, Looker Studio, Excel and Google Sheets, dbt, 
